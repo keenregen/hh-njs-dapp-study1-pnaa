@@ -1,3 +1,3 @@
-# Hh Njs Dapp Study 1
+# Njs Dapp Study 1
 
-## Pnaa Dapp
+## Pnaa Dapp [Decantralized BackEnd, Njs FrontEnd]
